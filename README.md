@@ -1,7 +1,7 @@
 # AWSExamples
 This repository contains AWS Examples and exercises  
 
-I teach AWS courses (onsite and self-paced)= They are available on Udemy, Packt and Safari Online  
+I teach AWS courses (onsite and self-paced).  Self-Paced are available on Udemy, Packt and Safari Online  
 
 Part 1: AWS Certified Solutions Architect (and CD,SO) - 2019  
 https://www.udemy.com/aws-certified-solutions-architect-guide-question-bank-i/?couponCode=WORKOUT  
