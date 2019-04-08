@@ -1,2 +1,2 @@
 # AWSExamples
-AWS Examples
+This repository contains AWS Examples and exercises
